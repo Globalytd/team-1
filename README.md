@@ -1,2 +1,2 @@
 # team-1
-Alpha, Enoch, Shepherd
+Alpha, Enoch, Shepherd, Nevin
