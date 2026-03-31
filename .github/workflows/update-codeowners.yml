@@ -58,7 +58,7 @@ jobs:
                 sha = existing.data.sha;
               }
             } catch (err) {
-              // file may not exist — we'll create it
+              // file may not exist — we'll create it for you
             }
 
             const params = {
