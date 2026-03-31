@@ -1,9 +1,11 @@
 # team-1
 Alpha, Enoch, Shepherd, Nevin
-#Idea 1: 
+#Idea 1:
 Ugandan Siri
-#Idea 2: 
+
+#Idea 2:
 Verbal translator
+
 #Idea 3: 
 Daily song app
 
